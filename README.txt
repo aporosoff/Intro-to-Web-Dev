@@ -1,6 +1,17 @@
-The place where you found this file is known as the ROOT of your site.  It's the place where everything begins.  The very first file you should create here is called index.html. You can use any text client such as Notepad, SublimeText, TextWrangler, etc. to edit html files.  Use whatever feels comfortable, so long as it’s not Word =)
+These files and folders will serve as the basis of your first foray into web development.  We will cover only the basics of HTML and likely just gloss over CSS and JavaScript as time allows.  Below are some additional resources you may find useful:
 
-Resources:
+For additional tutorials:
 
 http://htmldog.com/guides/html/beginner/
 http://www.codecademy.com/
+https://www.coursera.org/
+
+Content Generators:
+
+http://www.lipsum.com/
+http://slipsum.com/ (Inspired by Samuel L. Jackson.  Lots ‘o f-bombs but purely awesome. Definitely NSFW)
+
+Web Icon Finder:
+
+https://www.iconfinder.com/
+
