@@ -1,4 +1,4 @@
-These files and folders will serve as the basis of your first foray into web development.  We will cover only the basics of HTML and likely just gloss over CSS and JavaScript as time allows.  Below are some additional resources you may find useful:
+These files and folders will serve as the basis of your first foray into web development. This information will be gradually updated over time.
 
 For additional tutorials:
 
