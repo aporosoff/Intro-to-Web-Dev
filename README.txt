@@ -6,6 +6,17 @@ http://htmldog.com/guides/html/beginner/
 http://www.codecademy.com/
 https://www.coursera.org/
 
+CSS Resources
+
+http://htmldog.com/guides/css/
+http://www.w3schools.com/css/
+
+jQuery Resources
+
+https://jquery.com/
+https://jqueryui.com/
+http://cssmenumaker.com/blog/stunning-free-jquery-dropdown-menus
+
 Content Generators:
 
 http://www.lipsum.com/
@@ -14,4 +25,5 @@ http://slipsum.com/ (Inspired by Samuel L. Jackson.  Lots ‘o f-bombs but purel
 Web Icon Finder:
 
 https://www.iconfinder.com/
+
 
