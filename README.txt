@@ -1,5 +1,13 @@
 These files and folders will serve as the basis of your first foray into web development. This information will be gradually updated over time.
 
+Before starting, be sure you have a text editor that you can use such as Notepad.  Below are some recommendations as well:
+
+Text Editors
+
+http://www.sublimetext.com/ (Mac or Windows)
+http://www.barebones.com/products/textwrangler/ (Mac)
+http://notepad-plus-plus.org/ (Windows)
+
 For additional tutorials:
 
 http://htmldog.com/guides/html/beginner/
