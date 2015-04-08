@@ -1,6 +1,6 @@
 These files and folders will serve as the basis of your first foray into web development. This information will be gradually updated over time.
 
-Before starting, be sure you have a text editor that you can use such as Notepad.  Below are some recommendations as well:
+Before starting, be sure you have a text editor that you can use such as Notepad.  Below are some additional recommendations:
 
 Text Editors
 
